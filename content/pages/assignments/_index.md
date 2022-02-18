@@ -39,7 +39,7 @@ Final Paper
 
 This will be a research paper on a topic of your choosing related to course themes. You will build towards the final paper by handing in a proposal and outline first, and you will present the paper during the last week of classes.
 
-For further detail, see [Final Project Prospectus Guidelines]({{< baseurl >}}/pages/assignments/final-project-prospectus-guidelines).
+For further detail, see {{< resource_link 57e005ef-1054-0af7-943c-a3de251a9b5b "Final Project Prospectus Guidelines" >}}.
 
 The final paper will count for 30% of your grade.
 
