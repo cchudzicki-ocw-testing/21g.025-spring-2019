@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This course contains the course topics and their accompanying readings
+  and films.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
